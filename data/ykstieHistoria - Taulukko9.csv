@@ -7,9 +7,9 @@ Eerolan yks.tie,Eerolantie,,to,9
 Eskonojan yks.tie,Eskonojantie,,ke,11
 Haasia-Ahon yks.tie,Haasia-ahontie,,to,12
 Hanslammin yks.tie,Hanslammintie,,pe,16
-Harjulan yks.tie,Harjulantie,,Ti,16
+Harjulan yksityistie,Harjulantie,,Ti,17
 Heikkilän yks.tie,Heikkiläntie,,Ti,18
-Heilunmäen yks.tie,Heilumäentie,"Saman tiekunnan alla liittyviä teitä, joilla oma nimi",Ti,19
+Heilumäen yks.tie,Heilumäentie,"Saman tiekunnan alla liittyviä teitä, joilla oma nimi",Ti,19
 Hietanimen yks.tie,Hietaniementie,,to,23
 Hietasen yksityistie,Hietasentie,,Ti,24
 Hirniemen yks.tie,Hirniementie,,to,25
@@ -19,7 +19,7 @@ Juholan yks.tie,Juholantie,,Ti,44
 Kaijanniemen yks.tie,Kaijanniementie,,to,47
 Kailaan yks.tie,Kailaantie,,pe,48
 Kajaslammin yks.tie,Kajaslammintie,,pe,50
-Kankaan yks.tie,Kankaantie,,Ti,50
+Kankaan yks.tie,Kankaantie,,Ti,51
 Karikosken yks.tie,Karikoski,,ke,53
 Kelloniemen yks.tie,Kelloniementie,,ke,56
 Keskisen yks.tie,Keskisentie,,To,57
@@ -27,29 +27,29 @@ Ketlahden yks.tie,Ketlahdentie,,to,59
 Kiekkasten yks.tie,Kiekkastentie,,to,61
 Kirkkoportin yks.tie,Kirkkoportti,,to,63
 Kiviojan yks.tie,Kiviojantie,,to,66
-Koivurinteen yks.tie,Koivurinteentie,,ke,68
+Koivurinteen yks.tie,Koivurinteentie,,ke,69
 Komean yks.tie,Komeantie,,pe,73
-Korpinmaantien yksityistie tiekunta,Korpinmaantie,,pe,78
+Korpinmaantien yksityistie tiekunta,Korpinmaantie,,pe,#N/A
 Korpinniemen yks.tie,Korpiniementie,,to,78
 Koskionrannan yks.tie,Koskionrannantie,,pe,80
 Kureniemen yks.tie,Kurenniementie,,to,83
 Kutinojan yksityistie,Kutinojantie,,pe,85
 Kuusirannan yks.tie,Kuusirannantie,,ke,86
-Lahtisen yks.tie,Lahtisentie,,ke,88
+Lahtisen yks.tie,Lahtisentie,,ke,87
 Lakeasuon yks.tie,,,,89
 Lamminmäen yks.tie,Lamminmäki,,to,90
-Lampila-Hietal. yks.tie,Lampilantie,,to,90
+Lampila-Hietal. yks.tie,Lampilantie,,to,91
 Latomäen yks.tie,Latomäentie,,ke,93
 Lehtistenniemen yk.tie,Lehtistenniemi,,to,95
-Leporinteen yks.tie,Leporinne,,pe,96
+Leporinteen yks.tie,Leporinne,,pe,97
 Lintapellon yks.tie,,,,101
 Lintumalahden yks.tie,Lintumalahti,,ke,103
 Lintusalmen yks.tie,Lintusalmi,,to,104
 Makkaramäen yks.tie,Makkaramäentie,,to,107
 Malminharjun yks.tie,Malminharjuntie,,to,108
 Matkuksen yks.tie,Matkuksentie,,ke,110
-Metsä-Jokelan yks.tie,Metsä-Jokela,,to,110
-Metsähuoneen yks.tie,Metsähuoneentie,,to,112
+Metsä-Jokelan yks.tie,Metsä-Jokela,,to,112
+Metsähuoneen yks.tie,Metsähuoneentie,,to,111
 Muikkulahden yks.tie,Muikkulahti,,to,114
 Musterinojan yks.tie,Musterinojantie,,ke,115
 Myllykangas-Haikan yt,,,,119
