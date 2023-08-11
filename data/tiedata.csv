@@ -1,0 +1,243 @@
+id	tk_nimi	lkm_osakas	perust_vuosi	tie_id	nimi	pituus	avust_pituus	luokka	vakias_lkm	opask
+2	Aholan yks.tie		1982	1	Ahola	1.51	1.51	4		
+3	Aholan yks.tie	4	1984	2	Ahola	0.7	0.7	6	1	C3
+4	Akselinniemen yks.tie	4	2009	3	Akselinniemi	1.47		3		D2
+5	Ala-Räävelin yks.tie	39	1980	4	Ala-Rääveli	3.35	3.35	1	10	D4
+6	Ansavaaran yks.tie	8	1999	5	Ansavaara	0.42	0.42	2	5	B8
+7	Antinniemen yks.tie	16	1981	6	Antinniemi	1.2	1.2	2	2	E4
+8	Arvilan yks.tie	8	1994	7	Arvila	0.45	0.45	2	4	D3
+9	Eerolan yks.tie	22	1984	8	Eerola	0.7	0.7	2	2	A4
+10	Eräpirtin yks.tie		1977	9	Eräpirtti	3.8	3.8	4		E3
+11	Eskonojan yks.tie	21	1989	10	Eskonoja	1.43	1.43	2	8	B7
+12	Haasia-Ahon yks.tie	30	1985	11	Haasia-Aho	6.2	6.2	2	0	A3
+13	Haaviston yks.tie	12	1965	12	Haavisto	2.2	2.2	3	0	C4
+14	Halkokankaan yks.tie		1984	13	Halkokangas	1.61	1.61	4		F2
+15	Hanlammin yks.tie	9	1999	14	Hanlampi	4.2	0.6	2	1	B6
+16	Hanslammin yks.tie	22	1965	15	Hanslampi	2.8	2.8	1	3	D2
+17	Harjulan yksityistie	22	1998	16	Harjula	2.2	2.2	2	4	E4
+18	Heikkilän yks.tie	9	1976	17	Heikkilä	0.9	0.9	2	1	F2
+19	Heilumäen yks.tie	122	1974	18	Heilumäki	11.96	11.96	1	6	F3
+20	Herneniemen yks.tie		1991	19	Herneniemi	0.9	0.9	3		
+21	Hevossaaren yksityistie	8	2007	20	Hevossaari	0.86	0.86	3		E7/D7
+22	Hietal.-Merjesl yks.tie		1993	21	Hietalahti-Merjeslampi	2.76	2.76	3		E4
+23	Hietanimen yks.tie	24	1976	22	Hietaniemi	2.08	2.08	2	1	E3
+24	Hietasen yksityistie	5	1980	23	Hietanen	4.84	4.84	3	1	G5
+25	Hirniemen yks.tie	46	1978	24	Hirniemi	3.8	3.8	2	3	B2
+26	Hirsimäen yks.tie		2012	25	Hirsimäki	1.95				F3
+27	Holman yks.tie		1977	26	Holma	1.7	1.7	4		
+28	Hongiston yks.tie		1965	27	Hongisto	2.19	2.19	3		B6
+29	Hosun yks.tie		1990	28	Hosu	0.8	0.8	3		
+30	Huhtisaaren yks.tie		2003	29	Huhtisaari	0.9	0.9	3		C5
+31	Hulikistontie yks. tie		2018	30				4		
+32	Hunsvotin yks.tie		1979	31	Hunsvotti	3.1	3.1	4		D2
+33	Huukinkorven yks.tie		1988	32	Huukinkorpi	1.32	1.32	4		
+34	Hyväniemen yks.tie	16	1980	33	Hyväniemi	1.2	1.2	1	2	F5
+35	Härkälän yks. tie	26	1966	34	Härkälä	2	2	1	14	B8
+36	Immilän yks.tie	24	1988	35	Immilä	2.25	2.25	2	4	F4
+37	Isomäen yks.tie		1980	36	Isomäki	1	1	3		
+38	Iso-Palpasen yksityistie	29	2009	37	Iso-Palpanen	1.38		3		B8
+39	Iso-Rihun yks.tie	36	1969	38	Iso-Rihu	2.8	2.8	1	4	F6
+40	Janatinmäen yksityistie	44	2009	39	Janatinmäki	2.38	2.38	1	4	C2
+41	Janattijärven yksityistie	11	2009	40	Janattijärvi	1.47	1.47	3		C2
+42	Joenniemen yks.tie			41	Joenniemi	2.2	2.2	3		B6
+43	Joenniemen yks.tie	33	2004	42	Joenniemi	3.25	3.25	3	1	D6
+44	Juholan yks.tie	38	1978	43	Juhola	4.1	4.1	1	14	D4
+45	Järvelän yks.tie		1978	44	Järvelä	0.75	0.3	4		
+46	Kaatuvankosken yks.tie	11	1992	45	Kaatuvankoski	2.6	1.1	2	3	E1
+47	Kaijanniemen yks.tie	16	1981	46	Kaijanniemi	3.2	3.2	2	1	G3
+48	Kailaan yks.tie	23	1992	47	Kailaa	1.55	1.55	2	2	E3
+49	Kaitajärven yks.tie		1981	48	Kaitajärvi	2.8	2.8	4		
+50	Kajaslammin yks.tie	12	1968	49	Kajaslampi	2.7	2.7	2	3	E1
+51	Kankaan yks.tie	43	1975	50	Kankaa	10.7	10.7	1	7	B3
+52	Kantasen yks.tie	6	1989	51	Kantanen	0.34	0.34	2	1	C4
+53	Karikosken yks.tie	25	1971	52	Karikoski	1.9	1.9	1	9	B7
+54	Kausankärjen yk. Tie			53						
+55	Kassinlahden yks.tie			54	Kassinlahti	1.49	1.49	3		
+56	Kelloniemen yks.tie	151	1974	55	Kelloniemi	13	13	1	2	E7
+57	Keskisen yks.tie	16	1990	56	Keskinen	1.5	1.5	2	1	F3
+58	Kesäniemen yks.tie		1965	57	Kesäniemi	1.16	1.16	4		
+59	Ketlahden yks.tie	14	1980	58	Ketlahti	2.2	2.2	1	1	D4
+60	Ketlahti II metsätie		1980	59	Ketlahti II	1.8	1.8	3		D4
+61	Kiekkasten yks.tie	29	1996	60	Kiekkanen	2.6	2.6	2	3	E2
+62	Kiistasniemen yks.tie	15	1998	61	Kiistasniemi	2.4	2.4	3	0	D6
+63	Kirkkoportin yks.tie	19	1974	62	Kirkkoportti	2.8	2.8	2	1	E5
+64	Kivelän yksityistie	5	2005	63	Kivelä	0.65	0.65	3	0	C3
+65	Kiviniemen yks.tie		1976	64	Kiviniemi	0.23	0.23	3		
+66	Kiviojan yks.tie	70	1963	65	Kivioja	5.8	5.8	1	14	E2
+67	Kivirannan yks.tie		1992	66	Kiviranta	0.61	0.61	3		
+68	Koivurannan yks.tie	14		67	Koivuranta	1.3	1.3	2	6	B6
+69	Koivurinteen yks.tie	10	1999	68	Koivurinne	2.22	2.22	2	1	
+70	Kokkoniemen yks.tie		1977	69	Kokkoniemi	0.8	0.8	4		
+71	Kollarintien yks.tie		2013	70	Kollari	0.74		3		
+72	Kolulan yks.tie	7	1988	71	Kolula	0.68	0.68	4		C4
+73	Komean yks.tie	25	1962	72	Komea	3	3	1	4	E2
+74	Komosten yks.tie		1963	73	Komostenkylä	2.2	2.2	3	6	D5
+75	Konstan yks.tie	12	1986	74	Konsta	1.95	1.95	3	0	F3
+76	Korkeakosken yks.tie		1983	75	Korkeakoski	2	2	4		
+77	Korpijoen yks.tie	80	1964	76	Korpijoki	8	8	2	2	F4
+78	Korpinniemen yks.tie	39		77	Korpiniemi	3.28	3.28	2	1	F4
+79	Korven yks.tie		1976	78	Korpi	4.02	4.02	4		
+80	Koskionrannan yks.tie	39	1952	79	Koskionranta	5.14	5.14	1	5	F2
+81	Kuiviston yks.tie		1981	80	Kuivisto	5.6	5.6	4		
+82	Kullanlähteen yksityistie		2013	81						
+83	Kureniemen yks.tie	47	1992	82	Kureniemi	3	3	2	2	B4
+84	Kurjensuon yks.tie		1986	83	Kurjensuo	0.55	0.55	4		
+85	Kutinojan yksityistie	15	2001	84	Kutinoja	0.73	0.73	2	1	E3
+86	Kuusirannan yks.tie	16	1994	85	Kuusiranta	1.06	1.06	2	8	B7
+87	Lahtisen yks.tie	32	2018	86	Lahtinen	1.88	1.88	2	6	
+88	Lahtevan yks.tie		1984	87	Lahteva	1.88	1.88	4		
+89	Lakeasuon yks.tie	35	1977	88	Lakeasuo	7.15	7.15	2	7	D5
+90	Lamminmäen yks.tie	8	1980	89	Lamminmäki	0.8	0.8	3	2	C3
+91	Lampila-Hietal. yks.tie	37	1955	90	Lampila-Hietalahti	2.6	2.6	2	1	D4
+92	Lampilan yks.tie		1982	91	Lampila	2.1	2.1	4		F5
+93	Latomäen yks.tie	14		92	Latomäki	3.5	3.5	1	3	F7
+94	Laurilan mt.		1980	93	Laurila	2.62	2.62	4		
+95	Lehtistenniemen yk.tie	28	1967	94	Lehtistenniemi	2.9	2.9	2	1	E4
+96	Leporannan yksityistie		2011	95						
+97	Leporinteen yks.tie	10	2009	96	Leporinne	1.1	1.1	2	1	F3
+98	Likolahden yks.tie	9	1983	97	Likolahti	1.4	1.4	3	0	F4
+99	Linjakorven yks.tie		1986	98	Linjakorpi	2.8	2.8	4		
+100	Linnamäen yks.tie			99	Linnamäki			4		G6
+101	Lintapellon yks.tie	16	1998	100	Lintanpelto	0.73	0.73	2	1	D4
+102	Lintukallion yks.tie		1979	101	Lintukallio	0.96	0.96	4		
+103	Lintumalahden yks.tie	16	1967	102	Lintumalahti	2.7	2.7	1	2	E7
+104	Lintusalmen yks.tie	17	1965	103	Lintusalmi	6.02	6.02	1	9	A3
+105	Läpiänkärjen yks. tie	6	2015	104	Läpiänkärki	1.82				
+106	Mainion yks.tie		1975	105	Mainio	0.61	0.61	4		E4
+107	Makkaramäen yks.tie	58	1995	106	Makkaramäki	1.6	1.6	2	8	C3
+108	Malminharjun yks.tie	52	1972	107	Malminharju	2.7	2.7	1	5	E3
+109	Marjokorven yks.tie	2	1973	108	Marjokorpi	1.2	1.2	2	2	E5
+110	Matkuksen yks.tie	113	1977	109	Matkus	1	1	2	5	G6
+111	Metsähuoneen yks.tie	86	1963	110	Metsähuone	9.4	9.4	1	4	C4
+112	Metsä-Jokelan yks.tie	23		111	Metsä-Jokela	2.1	2.1	1	10	D5
+113	Mielasjärven yks.tie		1988	112	Mielasjärvi	0.72	0.72	4		F3
+114	Muikkulahden yks.tie	14	1970	113	Muikkulahti	1.4	1.4	2	2	B4
+115	Mustalammin yks.tie	10	1992	114	Mustalampi	1.3	1.3	2	1	B4
+116	Musterinojan yksityistie	9	2005	115	Musterinoja	0.96	0.96	2	4	C7
+117	Muurahaisen yks.tie	16	1975	116	Muurahainen	2.3	2.3	1	4	F1
+118	Muuraislammin yks.tie	14	1987	117	Muuraislampi	2.1	2.1	3	0	F1
+119	Muuttoniemen yks.tie		1992	118	Muuttoniemi	1.9	1.9	3		
+120	Myllykangas-Haikan yt.	164	1989	119	Myllykangas-Haikka	4.5	4.5	2	1	H3
+121	Myllyniemen mt.		1986	120	Myllyniemi	1.43	1.43	3		
+122	Myllyniemen yks.tie	57	1974	121	Myllyniemi	4.5	4.5	1	3	D5
+123	Mähkärin yks.tie		1985	122	Mähkäri	1.2	1.2	4		
+124	Mäntymäen yks.tie	10		123	Mäntymäki	1.05	1.05	3	3	
+125	Mäyrälammen yks.tie		1974	124	Mäyrälampi	0.3	0.3	4		
+126	Nahkalan yks.tie		1977	125	Nahkala	0.6	9.9	4		
+127	Niemen yks.tie	38	1978	126	Niemi	3.7	3.7	1	4	C3
+128	Niiniahon yks.tie	22		127	Niiniaho	2.5	2.5	1	6	C3
+129	Niinilammen yks.tie		1983	128	Niinilampi	1.38	1.38	4		
+130	Niinimäen yks.tie		1973	129	Niinimäki	1.65	1.65	4		
+131	Nuottniemen yks.tie	13	2004	130	Nuottniemi	0.8	0.8	3	1	B4
+132	Nuuskankiven yks.tie		1976	131	Nuuskankivi	0.01	0.01	4		
+133	Ohniemen yks.tie	27		132	Ohniemi	2	2	2	2	B4
+134	Oinassillan yks.tie	31	1979	133	Oinassilta	3.74	3.74	1	5	B2
+135	Olkkolan metsätie	5	2008	134	Olkkola	2.54		4		
+136	Paadenmaan yks.tie			135	Paadenmaa	1	1	4		H3
+137	Paason yks.tie	81	1998	136	Paaso	1.7	1.7	2	13	F2
+138	Palajärven yks.tie	22	1986	137	Palajärvi	2.21	2.21	1	3	C3
+139	Palojärven metsätie		2016	138	Palojärvi	1.73		4		
+140	Palpasen yks.tie	43	1963	139	Palpanen	3.2	3.2	1	14	B7
+141	Pannuniemen yks.tie	6	1996	140	Pannuniemi	0.55	0.55	3	0	E6
+142	Parikan yks.tie		1969	141	Parikka	0.7	0.7	4		
+143	Patakallion yks.tie	27	1971	142	Patakallio	4	4	1	1	B3
+144	Patalahden yks.tie		1985	143	Patalahti	1.7	1.7	3		
+145	Pekonniemen yks.tie	16	1974	144	Pekonniemi	3.66	3.66	2	1	F5
+146	Peltolan yks.tie	14	1986	145	Peltola	2.8	2.8	1	5	C4
+147	Peltola-Niemelän yt.	2	1989	146	Peltola-Niemelä	0.5	0.5	3	2	H4
+148	Piilon yks.tie	7	1991	147	Piilo	0.8	0.8	2	3	D4
+149	Piltin yks.tie	12	1989	148	Piltti	4.08	4.08	1	6	D3
+150	Pipanmäen-Suol.yks.tie	3	1975	149	Pipanmäki-Suolahti	0.83	0.83	2	1	F2
+151	Pirtinlahden yks.tie	12	1982	150	Pirtinlahti	1.3	1.3	2	2	G4
+152	Pirtjärven yksityistie	13	2005	151	Pirtjärvi	1.01	1.01	2	1	E2
+153	Pitkäniemen yks. tie	8	1998	152	Pitkäniemi	2.2	2.2	3		C5
+154	Punakallion yks.tie	21	1955	153	Punakallio	3	3	2	2	D2
+155	Punttivuoren yks.tie	4	1988	154	Punttivuori	1.31	1.31	4		C3
+156	Pähkinän yks.tie	34	1979	155	Pähkinä	6.28	6.28	2	3	A4
+157	Päivämäen yks.tie	11	1992	156	Päivämäki	0.63	0.63	2	8	B8
+158	Päivärinteen yks.tie		1969	157	Päivärinne	0.7	0.7	4		
+159	Pääsinniemen yks.tie	34	1972	158	Pääsinniemi	3.45	3.45	1	10	C2
+160	Rainion yks.tie		1982	159	Rainio	2.9	2.9	4		
+161	Rajakujan yks.tie	6	1999	160	Rajakuja	0.31	0.31	2	3	E2
+162	Rajakulman yks.tie		1977	161	Rajakulma	0.7	0.7	4		
+163	Rajaniemen yks.tie		1982	162	Rajaniemi	0.2	0.3	4		
+164	Rakovalkean yksityistie	15	2005	163	Rakovalkea	1.25	0	3	0	C 7
+165	Rantamäen yks.tie	11	1995	164	Rantamäki	0.86	0.86	2	2	B6
+166	Rantatien yksityistie		2001	165						
+167	Rautjalan yks.tie		1977	166	Rautjalka	8.18	5.5	4		
+168	Ravikin yks.tie		1978	167	Ravikki	0.55	0.55	4		E7
+169	Riihijärven yks.tie	31	1966	168	Riihijärvi	5.9	5.9	1	3	C3
+170	Riihisuon yks.tie	8		169	Riihisuo	0.9	0.9	3	3	C8
+171	Riivalin yks.tie	18		170	Riivali	3.35	3.35	2	2	C3
+172	Ristijärven yks.tie	41	1968	171	Ristijärvi	3.42	3.42	1	5	C4
+173	Ritaniemen yks.tie			172	Ritaniemi		0	4	0	F5
+174	Ritvalan yks.tie		1984	173	Ritvala	0.9	0.9	4		
+175	Riutta-Ahon yks.tie	5	1997	174	Riutta-Aho	1.9	1.9	4	0	D2
+176	Riuttamäen yks.tie		1983	175	Riuttamäki	2.08	2.08	4		
+177	Ronin yks.tie	27	1973	176	Roni	2.2	2.2	2	8	E4
+178	Ronsillan yks.tie	18	2000	177	Ronsilta	0.9	0.9	2	7	D4
+179	Ruokosten yks.tie	55	1974	178	Ruokonen	3.5	3.5	2	4	B2
+180	Ruskealahden yks.tie		1993	179	Ruskealahden mt	0.94	0.94	3		B6
+181	Ruusumäen yks.tie		1991	180	Ruusumäki	0.55	0.55	3		A3
+182	Rysänperän yks.tie	8	1996	181	Rysänperä	1.51	1.51	2	1	B2
+183	Saaren yks.tie	32	1968	182	Saari	2.75	2.75	2	7	E5
+184	Saarijärven yks.tie	14	1991	183	Saarijärvi	2.2	2.2	2	2	H4
+185	Saarijärven yks.tie		1980	184	Saarijärvi	2.89	2.89	4		
+186	Saittalammen yks.tie	36	1971	185	Saittalampi	1.25	1.25	2	2	F3
+187	Salajärven yks.tie			186	Salajärvi	1	1	3		F6
+188	Salmela-Niemelän yt.	22	1966	187	Salmela-Niemelä	2.86	2.86	2	1	F4
+189	Salmen yks.tie	19		188	Salmi	6.1	6.1	1	3	A4
+190	Salmi-Alatuusj.yks.tie	18	1967	189	Salmi-Alatuusj.	4.2	4.2	3	0	D4
+191	Sarven yks.tie	20	1976	190	Sarvi	3.85	3.85	1	7	D4
+192	Saukon yks.tie	40	1964	191	Saukko	8.2	8.2	1	7	F6
+193	Savion yks.tie	21	1978	192	Savio	5.7	5.7	2	1	C4
+194	Selustan yks.tie	7	2008	193	Selusta	0.54		3	0	E6
+195	Sihvonniemen yks.tie	19	1989	194	Sihvonniemi	1.3	1.3	4	1	F5
+196	Siilinlehdon yks.tie		1973	195	Siilinlehto	1.2	1.2	4		C7
+197	Sileäkankaan metsätie		1991	196	Sileäkangas	1.69	1.69	3	0	
+198	Sissinniemen yks.tie		1976	197	Sissinniemi	0.1	0.1	4		
+199	Sivinlahden yks.tie	16	1990	198	Sivinlahti	1.1	1.1	2	4	F2
+200	Sulkavanrannan yks.tie	14	1995	199	Sulkavanranta	2.4	2.4	2	3	D5
+201	Suolahden yks.tie	13	1990	200	Suolahti	2.5	2.5	3	0	G4
+202	Suomäen yks.tie	24	1990	201	Suomäki	1.4	1.4	1	13	C5
+203	Supin yks.tie			202	Suppi	0.24	3.55	4		C8
+204	Suurijärven yks.tie	106	1973	203	Suurijärvi	9.4	9.4	1	27	C7
+205	Suurmäen yks.tie	4	1989	204	Suurmäki	0.8	0.8	3	0	B4
+206	Särkän yks. tie		2012	205	Särkkä	2.05	2.05		1	
+207	Talvilahden yks.tie	34	1986	206	Talvilahti	1.1	1.1	1	11	D3
+208	Tarkjärven yks.tie		1983	207	Tarkjärvi	1.33	1.33	4		C4
+209	Tasajärven yks.tie	41	1971	208	Tasajärvi	9	9	1	8	B4
+210	Telkkäniemen yks.tie		1978	209	Telkkäniemi	0.4	0.4	4		
+211	Telkkävuoren yks.tie	6	1982	210	Telkkävuori	1.4	1.4	2	1	C2
+212	Terrijärven metsätie	15	2007	211	Terrijärvi	3.82	3.82	3		H4
+213	Terriniemen yksityistie	8	2007	212	Terriniemi	0.48	0.48	3		D5
+214	Tervalahden yks.tie	17		213	Tervalahti	1.4	1.4	4	0	D4
+215	Tervaslammen yks.tie	26	1978	214	Tervaslampi	7.8	7.8	4		D8
+216	Tervatehtaan yks.tie	19	1995	215	Tervatehdas	3.8	3.8	2	3	G4
+217	Teräskallion yks.tie		1973	216	Teräskallio	3.2	3.2	4		E2
+218	Tiikinmäen yks.tie	17	2006	217	Tiikinmäki	1.75	1.75	3	1	G 3
+219	Tiuhtaniemen yks.tie	9	2006	218	Tiuhtaniemi	1.81	1.81	3	0	E 3
+220	Tonttuvuoren yks.tie		1978	219	Tonttuvuori	0.94	0.94	4		E3
+221	Uustaipaleen yks.tie	17	1978	220	Uustaipale	3.77	3.77	2	1	E7
+222	Uutelan yks.tie	12	1984	221	Uutela	1	1	3	1	
+223	Vainion yks.tie	16	1969	222	Vainio	4.1	4.1	1	4	B2
+224	Valkjärven yks.tie	37	1980	223	Valkjärvi	5	1.5	3	2	G3
+225	Vanhakylän yks.tie	43	1970	224	Vanhakylä	2.7	2.7	2	2	F3
+226	Vanha-Olkkolan yks.t.		1978	225	Vanha-Olkkola	0.6	1.56	4		
+227	Vatajan yks.tie	8	1995	226	Vataja	0.56	0.56	3	0	F2
+228	Veitsillan yks.tie	7		227	Veitsilta	1.4	1.4	2	2	B8
+229	Venäläismäen yks.tie	18	1961	228	Venäläismäki	1.1	1.1	2	1	E2
+230	Vierulan yks.tie	8	1980	229	Vierula	0.94	0.94	2	2	B8
+231	Vierulankujan yks.tie	9	2006	230	Vierulankuja	1.7	1.7	2	2	E2
+232	Viikinäisten yks.tie	102	1968	231	Viikinäinen	5.4	5.4	1	22	D3
+233	Viilajärven yks.tie	117	1971	232	Viilajärvi	5	5	1	6	F5
+234	Viinakoijan yks.tie	15	1985	233	Viinakoija	1.4	1.4	2	7	B7
+235	Viitasaaren-Räsän yks.tie	32	2016	234	Viitasaari-Räsä	8.8	6.5	1	7	H4
+236	Voittolan yks.tie	19	1978	235	Voittola	2.9	2.9	2	4	A3
+237	Vuohiniemen metsätie		2013	236	Vuohiniemi					
+238	Vuolin yks.tie	24	1981	237	Vuoli	4.26	4.26	1	5	G4
+239	Värlammin yks.tie		1973	238	Värlampi	2.15	2.15	4		
+240	Väärälammen yks.tie	11	1982	239	Väärälampi	0.84	0.84	2	2	E5
+241	Yhteismetsäntiet yks.tie		2018	240		4.42		4		
+242	Ämmälahden yks.tie	78	1979	241	Ämmälahti	10.4	10.4	1	2	G5
+250	Vasikkasaaren yksityistie	26	2020	255	Vasikkasaarentie	2.56	2.56	3	1	E2
